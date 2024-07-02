@@ -1,4 +1,4 @@
-# Contact Agenda
+# Contact API
 Service responsible for storing all the contacts in h2 database
 
 # Application Configuration

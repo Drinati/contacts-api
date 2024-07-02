@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.contact.agenda</groupId>
-    <artifactId>api-contact-agenda</artifactId>
+    <groupId>com.contact</groupId>
+    <artifactId>contact-api</artifactId>
     <version>1.0.0</version>
-    <name>contact-agenda-service</name>
+    <name>contact-api</name>
     <description>Service responsible for storing all the contacts</description>
 
     <properties>
